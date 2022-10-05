@@ -1,0 +1,8 @@
+ Lab_2
+
+Exercise 2
+
+==> Create repository in guthub
+==>Then Clone to local machine
+==>Make changes add files docs...
+==>Finally push your changes to github again 
